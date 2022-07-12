@@ -1,6 +1,6 @@
 # Data-Structure-Dictionary-AVL-Hashing
 
-## Search engine where user can enter a word, and can get example sentences and meanings of that word. If the user misspells the word, they can get a suggestion.
+### Search engine where user can enter a word, and can get example sentences and meanings of that word. If the user misspells a word, they can get a suggestion.
 
 ### Pre Requisite
 
