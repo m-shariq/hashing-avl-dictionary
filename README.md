@@ -10,7 +10,7 @@
 ### How to use
 1. Download all the headers file along with main.cpp file
 2. Download the word.txt
-3. Run the main.cpp file by changing the path of word.txt in Runner.h file
+3. Run the main.cpp file by changing the path of word.txt in Runner.h file. Folder structure is given below:
 ![alt text](https://elaborate-snickerdoodle-c10791.netlify.app/folder.jpg)
 4. Add the path of the file in Runner Function
 ![alt text](https://elaborate-snickerdoodle-c10791.netlify.app/runner.jpg)
